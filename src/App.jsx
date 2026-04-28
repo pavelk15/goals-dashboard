@@ -454,7 +454,7 @@ export default function App() {
                   letterSpacing: '-0.02em',
                   fontVariationSettings: '"opsz" 144, "SOFT" 30',
                 }}>
-                  План на  <em style={{ fontStyle: 'italic', color: PALETTE.red }}>пять лет</em>.
+                  План на <em style={{ fontStyle: 'italic', color: PALETTE.red }}> пять лет</em>.
                 </h1>
                 <div style={{ marginTop: 14, fontSize: 14, color: PALETTE.inkSoft, maxWidth: 560, lineHeight: 1.55 }}>
                   Каждая цель прошла стресс-тест: реалистичность, конфликты времени, зона контроля. Прогресс считается по выполненным майлстоунам.
