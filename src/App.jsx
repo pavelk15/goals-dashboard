@@ -70,8 +70,8 @@ const buildInitialGoals = () => [
     ],
   },
   {
-    id: uid(), sphere: 'career', title: '300 учеников к августу 2026',
-    deadline: '2026-08', risk: 'amber', status: 'active',
+    id: uid(), sphere: 'career', title: '300 учеников к сентябрю 2026',
+    deadline: '2026-09', risk: 'amber', status: 'active',
     notes: 'Рост ×5.5 за 4 месяца. Нужен расчёт CAC и канал.',
     milestones: [
       { id: uid(), title: 'Зафиксировать средний CAC сейчас', done: false },
@@ -81,8 +81,8 @@ const buildInitialGoals = () => [
     ],
   },
   {
-    id: uid(), sphere: 'career', title: '1000 учеников к апрелю 2027',
-    deadline: '2027-04', risk: 'red', status: 'planned',
+    id: uid(), sphere: 'career', title: '1000 учеников к сентябрю 2027',
+    deadline: '2027-09', risk: 'red', status: 'planned',
     notes: 'Рост ×18 за год — амбиция уровня венчур. Без проверенной юнит-экономики риск высокий.',
     milestones: [
       { id: uid(), title: 'Подтвердить retention учеников (>3 мес)', done: false },
